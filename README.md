@@ -46,7 +46,7 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 ## All 76 Trading metrics
 
 <img width="1662" height="1000000" alt="newplot" src="https://github.com/user-attachments/assets/9ebb5461-957a-4042-9c5b-e9ca2fd58654" />
-yeap, the image is so large that GitHub can't handle it. Kindly open this file instead
+yeap, the image is so large that GitHub can't handle it. Kindly open this [file](https://github.com/algorembrant/MTPRS/blob/main/newplot.png) instead.
 
 
 
