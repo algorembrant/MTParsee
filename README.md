@@ -39,9 +39,9 @@ An `MT5-trade-report.xlsx` file parser constructs statistical graphs for clear v
 
 ## Very simple steps
 
-- install python reqquirements<br>
+- install python requirements <br>
 - run watchdog.py once<br>
-- drag-n-drap MT5-trade-report xlsx file into [2] folder
+- for demonstration, drag-n-drop MT5-trade-report xlsx file into [2] folder
 - let the bot do the rest
 
 
