@@ -4,14 +4,14 @@ An `MT5-trade-report.xlsx` file parser constructs statistical graphs for clear v
 
 
 
-
+## Demonstation
 https://github.com/user-attachments/assets/92a9049a-1948-49ed-b96b-75366a9f5b74
 
 
 
 
 
-
+## Project Structure
 ```
 ├── backend/
 │   ├── [1]_main_watchdog.py       # monitors and conduct automation                  
