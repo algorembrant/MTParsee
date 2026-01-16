@@ -4,6 +4,6 @@ openpyxl
 pathlib
 os
 plotly
-scipy
-matplotlib
+scip
 watchdog
+kaleido
