@@ -45,13 +45,18 @@ https://github.com/user-attachments/assets/92a9049a-1948-49ed-b96b-75366a9f5b74
 ```
 
 
-## Very simple steps
+## Straightforward steps
 
 - install python requirements <br>
 - run watchdog.py once<br>
 - for demonstration, drag-n-drop MT5-trade-report xlsx file into [2] folder
 - let the bot do the rest
 
+## MT5 Trade Report
+
+<img width="820" height="200" alt="ReportTester-263254895" src="https://github.com/user-attachments/assets/908ffd2a-2c1e-4a95-91b3-1483e1256cdd" />
+
+The MT5 Trade Report only provides one rolling metric (as shown above), whereas my parser bot provides 76 rolling metrics. All metrics are shown [here](https://github.com/algorembrant/MTParsee/blob/main/metrics_consideration.pdf).
 
 ## All 76 Trading metrics
 
